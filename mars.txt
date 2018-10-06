@@ -4,3 +4,7 @@ supporting resources. Trip 1 from Earth to Mars: 1) establish stable
 power supply; 2) establish housing with atmospheric oxgen; 3) establish 
 surveillance of systems.
 
+Trip 2 from Earth to Mars: 1) establish food farms; 2) identify minerals 
+and compounds; and 3) map topology.
+
+
