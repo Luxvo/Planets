@@ -1,4 +1,5 @@
-Mars is a planet of interest for space colonization. It has water and 
+Hi. Mars is a planet of interest for space colonization. It has water 
+and 
 microbial life. It has a red atmosphere. Mars lacks oxgen and human life 
 supporting resources. Trip 1 from Earth to Mars: 1) establish stable 
 power supply; 2) establish housing with atmospheric oxgen; 3) establish 
